@@ -1,0 +1,15 @@
+ESS Survey Data - variables - continuous or categorical?
+
+Country - categorical
+IDNO - continuous (ordinal)
+Year - continuous (ratio)
+Total Hrs of TV Watched (tvtot) - continuous (ratio)
+Trust in People (ppltrst) - continuous (interval - assuming there is no zero on
+the scale)
+Sense of Fairness (pplfair) - continuous (interval)
+Happiness (happy) - continuous (interval)
+How often you meet socially (sclmeet) - continuous (ratio)
+How often you take part in social activities (sclact)
+Gender     (gndr) - categorical
+Age        (agea) - continuous (ratio)
+In a Relationship (partner) - categorical

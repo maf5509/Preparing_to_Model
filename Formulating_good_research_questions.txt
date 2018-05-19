@@ -1,0 +1,56 @@
+Drill: Formulating good research questions
+
+1. What is the 1994 rate of juvenile delinquency in the U.S.?
+
+Good
+
+2. What can we do to reduce juvenile delinquency in the U.S.?
+
+Bad
+
+What factors tend to correlate with juvenile delinquency?
+
+3. Does education play a role in reducing juvenile delinquents' return to crime?
+
+Good
+
+4. How many customers does AT&T currently serve in Washington, DC?
+
+Good
+
+5. What factors lead consumers to choose AT&T over other service providers?
+
+Good
+
+6. How can AT&T attract more customers?
+
+Bad
+
+See # 5.
+Or: What do customers report liking about AT&T rather than its competitors?
+
+7. Why did the Challenger Shuttle explode?
+
+Bad
+
+What sequence of conditions and events led to the explosion of the Challenger Shuttle?
+
+8. Which genes are associated with increased risk of breast cancer?
+
+Good
+
+Is it better to read to children at night or in the morning?
+
+Bad
+
+9. Is it better to read to children at night or in the morning?
+
+Does reading to children at night rather than in the morning 
+result in changes to any aspect of their lives?
+
+10. How does Google’s search algorithm work?
+
+Bad
+
+What parameters does Google's search algorithm take into account?
+
